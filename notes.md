@@ -1,7 +1,7 @@
 ```goat
 
 
- VCC BUT !!!
+ VCC OUT  DS
   |   |   |
   |   |   |
 .-+---+---+---.
@@ -18,7 +18,9 @@
 |-------|-----------------------------|
 | VCC   | Power, 5v                   |
 | GND   | Ground                      |
-| BUT   | button resistor ladder?     |
-| ???   | DS or latch                 |
-| !!!   | DS or latch                 |
+| OUT   | Button or hall sensor       |
+| OE    | Output enable               |
+| DS    | Serial data in              |
 | SHCP  | Shift register clock input  |
+
+> Data latched on the 74HC595D selects which button / hall sensor is currently wired up to OUT
