@@ -64,6 +64,8 @@ draft: true
 <td style="width:70%; padding: 1px;"></td></tr>
 </table>
 
+https://github.com/kennedn/fridgepwn/assets/8060657/a2f985d9-0381-4766-84df-42033e2638b1
+
 
 | BIT (1<<x) | BUTTON                                    |
 |------------|-------------------------------------------|
@@ -72,3 +74,5 @@ draft: true
 | 13         | Quick                                     |
 | 14         | Set                                       |
 | 15         | On/Off                                    |
+
+
